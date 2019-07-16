@@ -1,2 +1,2 @@
 # lab-starter-template
-StoJIuk
+StoJIuk-template
